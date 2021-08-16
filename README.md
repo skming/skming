@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skming
-https://github.com/skming/skming/blob/main/nice.gif
+![nice](https://github.com/skming/skming/blob/main/nice.gif)
 
 <!---
 skming/skming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
